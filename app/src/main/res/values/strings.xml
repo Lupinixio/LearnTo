@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Learn To</string>
+
+    <style name="PrimaryText">
+        <item name="android:textColor">#DE000000</item>
+        <item name="android:background">#DEaed581</item>
+       <item name="android:textStyle">italic</item>
+        <item name="android:gravity">center</item>
+    </style>
+
+    <style name="Button">
+        <item name="android:textColor">#DE000000</item>
+        <item name="android:gravity">center</item>
+        <item name="android:layout_marginTop">8dp</item>
+    </style>
+
+</resources>
